@@ -279,9 +279,9 @@ h1, h2, h3, h4, h5, h6, figure {
 			}
 			&.btn-cta {
 				a {
-					color: $brand-primary;
+					color: #1d1d1b;
 					span {
-						background: $brand-white;
+						background: #e8a202;
 						padding: 4px 20px;
 						@include inline-block;
 						@include transition(.3s);
