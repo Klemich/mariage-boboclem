@@ -16,9 +16,8 @@ body {
   background: #fff;
 }
 .zhongwen {
-  font-family: tt-songti-chs-variable, sans-serif;
+  font-family: "AR PL UKai CN﻿", "regular script", "kaiti", "kaishu", "zhengshu", "zhengkai", cursive;
   font-style: normal;
-  font-variation-settings: "weight" 100;
 }
 #page {
   position: relative;
