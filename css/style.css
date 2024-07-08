@@ -20,7 +20,11 @@ body {
   color: #828282;
   background: #fff;
 }
-
+.zhongwen {
+  font-family: tt-songti-chs-variable, sans-serif;
+  font-style: normal;
+  font-variation-settings: "weight" 100;
+}
 #page {
   position: relative;
   overflow-x: hidden;
