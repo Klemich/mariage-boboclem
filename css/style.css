@@ -5,17 +5,8 @@
   font-weight: normal;
   font-style: normal;
 }
-@font-face {
-  font-family:"Amsterdam";
-  src: url(../fonts/AmsterdamOne.ttf);
-}
-@font-face{
-  font-family:"Font Awesome 5 Duotone";
-  font-style:normal;
-  font-weight:900;
-  font-display:block;
-  src:url(../fonts/fa/fa-duotone-900.eot);
-  }
+@font-face { font-family: "Amsterdam"; src: url(../fonts/AmsterdamOne.ttf); }
+@font-face{font-family:"Font Awesome 5 Duotone";font-style:normal;font-weight:900;font-display:block;src:url(../fonts/fa/fa-duotone-900.eot);src:url(../fonts/fa/fa-duotone-900.eot?#iefix) format("embedded-opentype"),url(../fonts/fa/fa-duotone-900.woff2) format("woff2"),url(../fonts/fa/fa-duotone-900.woff) format("woff"),url(../fonts/fa/fa-duotone-900.ttf) format("truetype"),url(../fonts/fa/fa-duotone-900.svg#fontawesome) format("svg")}
 /* =======================================================
 *
 * 	Template Style
